@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karyakraam.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a3f3a719a9b19ca52f010e95ab02cf253d29eb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3200d55c8399707a7e6e1e5a76e04f959e35dd3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karyakraam.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karyakraam.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karyakraam.Contract")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73a8e0f08dcd10a86da80804ea32f582ed827717")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3200d55c8399707a7e6e1e5a76e04f959e35dd3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karyakraam.Contract")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karyakraam.Contract")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
