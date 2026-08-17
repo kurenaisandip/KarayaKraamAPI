@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="Karyakraam.Application/Karyakraam.Application.csproj" />
+  <Project Path="Karyakraam.Contract/Karyakraam.Contract.csproj" />
   <Project Path="KaryakraamAPI/KaryakraamAPI.csproj" />
 </Solution>
