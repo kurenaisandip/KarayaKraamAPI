@@ -36,6 +36,29 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Karyakraam.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Karyakraam.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Karyakraam.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Karyakraam.Application.dll": {}
+        }
+      },
+      "Karyakraam.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Karyakraam.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Karyakraam.Contract.dll": {}
+        }
       }
     }
   },
@@ -75,10 +98,22 @@
         "microsoft.openapi.2.7.5.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "Karyakraam.Application/1.0.0": {
+      "type": "project",
+      "path": "../Karyakraam.Application/Karyakraam.Application.csproj",
+      "msbuildProject": "../Karyakraam.Application/Karyakraam.Application.csproj"
+    },
+    "Karyakraam.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Karyakraam.Contract/Karyakraam.Contract.csproj",
+      "msbuildProject": "../Karyakraam.Contract/Karyakraam.Contract.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "Karyakraam.Application >= 1.0.0",
+      "Karyakraam.Contract >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 10.0.11"
     ]
   },
@@ -106,7 +141,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/sandiprai/RiderProjects/KaryakraamAPI/Karyakraam.Application/Karyakraam.Application.csproj": {
+              "projectPath": "/Users/sandiprai/RiderProjects/KaryakraamAPI/Karyakraam.Application/Karyakraam.Application.csproj"
+            },
+            "/Users/sandiprai/RiderProjects/KaryakraamAPI/Karyakraam.Contract/Karyakraam.Contract.csproj": {
+              "projectPath": "/Users/sandiprai/RiderProjects/KaryakraamAPI/Karyakraam.Contract/Karyakraam.Contract.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

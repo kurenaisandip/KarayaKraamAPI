@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Karyakraam.Contract\Karyakraam.Contract.csproj" />
+    </ItemGroup>
+
 </Project>
