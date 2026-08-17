@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "zhMitkiXEgU=",
+  "dgSpecHash": "9HViberd8jU=",
   "success": true,
   "projectFilePath": "/Users/sandiprai/RiderProjects/KaryakraamAPI/Karyakraam.Application/Karyakraam.Application.csproj",
   "expectedPackageFiles": [
     "/Users/sandiprai/.nuget/packages/bcrypt.net-next/4.2.0/bcrypt.net-next.4.2.0.nupkg.sha512",
     "/Users/sandiprai/.nuget/packages/microsoft.bcl.cryptography/10.0.2/microsoft.bcl.cryptography.10.0.2.nupkg.sha512",
+    "/Users/sandiprai/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.10/microsoft.extensions.configuration.abstractions.10.0.10.nupkg.sha512",
     "/Users/sandiprai/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/sandiprai/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/sandiprai/.nuget/packages/microsoft.extensions.primitives/10.0.10/microsoft.extensions.primitives.10.0.10.nupkg.sha512",
     "/Users/sandiprai/.nuget/packages/microsoft.identitymodel.abstractions/8.22.0/microsoft.identitymodel.abstractions.8.22.0.nupkg.sha512",
     "/Users/sandiprai/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.22.0/microsoft.identitymodel.jsonwebtokens.8.22.0.nupkg.sha512",
     "/Users/sandiprai/.nuget/packages/microsoft.identitymodel.logging/8.22.0/microsoft.identitymodel.logging.8.22.0.nupkg.sha512",
